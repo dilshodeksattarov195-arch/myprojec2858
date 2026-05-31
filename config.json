@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productuonnect",
+        "uuid": 11291958,
+        "checksum": "squarf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
